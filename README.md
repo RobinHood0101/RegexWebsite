@@ -27,3 +27,10 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+## Install required packages
+
+```sh
+npm install vue-i18n
+```
